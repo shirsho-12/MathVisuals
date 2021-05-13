@@ -1,0 +1,6 @@
+.picasa.ini
+venv
+.idea
+__pycache__
+Photomosaics/*
+!Photomosaics/*.py
